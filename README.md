@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Tailwind, NextJs**
 
-- 👨‍💻 All of my projects are available at [juramirzaev.com](juramirzaev.com)
+- 👨‍💻 All of my projects are available at [https://juramirzaev.com/](https://juramirzaev.com/)
 
 - 💬 Ask me about **Javascript, Reactjs, Bootstrap**
 
