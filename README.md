@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muminjon Juramirzaev</h1>
+<h1 align="center">Hi 👋, I'm Muminjon</h1>
 <h3 align="center">A self-taught Front-End developer located in Poland</h3>
 
 - 🔭 I’m currently working on [Real Estate website with ReactJs and Tailwind](https://github.com/muminDev/real-estate)
